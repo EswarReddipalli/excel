@@ -8,9 +8,8 @@
 	height: 4rem;
 	width: 4rem;
 	
-	position: absolute;
-	left: 42%;
-	top: 11%;
+	position: relative;
+	bottom:0.5rem;
 }
 
 body
